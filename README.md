@@ -15,3 +15,4 @@ An AI-powered investment analytics platform built on historical NIFTY-50 market 
 - 470,000+ daily records
 
 ## Project Structure
+ 
